@@ -127,7 +127,7 @@ doc-analyzer/
 ## 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/doc-analyzer.git
+git clone [https://github.com/your-username/doc-analyzer.git](https://github.com/KartikRaut09/Documentation-Analyzer-with-Intelligent-Crawling-Agent)
 cd doc-analyzer
 ```
 
